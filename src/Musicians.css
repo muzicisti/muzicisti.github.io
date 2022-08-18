@@ -1,0 +1,8 @@
+.MusiciansContent {
+  display: flex;
+  gap: 32px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  max-width: 900px;
+  justify-content: center;
+}
